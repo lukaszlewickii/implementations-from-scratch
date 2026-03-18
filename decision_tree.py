@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class Node:
     """
     Single node in decision tree.
